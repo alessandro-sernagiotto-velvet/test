@@ -1,2 +1,2 @@
 
-echo "ciao"
+print "ciao"
