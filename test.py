@@ -14,5 +14,5 @@ variabile1 = st.text_input("dato1")
 variabile2 = st.text_input("dato2")
 
 supervariabile="ho elaborato " + variabile1 + variabile2
-
-st.write(supervariabile)
+if(variabile1 != "" && variabile2 != "")
+  st.write(supervariabile)
