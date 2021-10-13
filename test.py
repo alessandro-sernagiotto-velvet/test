@@ -7,4 +7,4 @@ print("ciao")
 st.title('Hello World')
 st.write('Prima app in streamlit')
 
-st.input
+
