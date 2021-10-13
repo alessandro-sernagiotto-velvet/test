@@ -10,6 +10,9 @@ st.write('Prima app in streamlit')
 #https://docs.streamlit.io/library/api-reference
 st.button("cliccami")
 
-variabile = st.text_input("dato")
+variabile1 = st.text_input("dato1")
+variabile2 = st.text_input("dato1")
 
-st.write(variabile)
+supervariabile="ho elaborato " + variabile1 + variabile2
+
+st.write(supervariabile)
