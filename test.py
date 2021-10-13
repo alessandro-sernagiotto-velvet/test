@@ -7,4 +7,6 @@ print("ciao")
 st.title('Hello World')
 st.write('Prima app in streamlit')
 
+#https://docs.streamlit.io/library/api-reference
+st.button("cliccami")
 
